@@ -7,7 +7,7 @@
 
 @font-face {
     font-family: nimbus;
-    src: url(/fonts/nimbus-sans-l/NimbusSanL-Bol.ttf);
+    src: url(fonts/NimbusSanL-Bol.ttf);
 }
 
 html,
@@ -197,7 +197,7 @@ body {
 #motive #onespan {
     width: 70px;
     height: 45px;
-    background-image: url(/images/bluegirl.jpg);
+    background-image: url(images/bluegirl.jpg);
     background-size: cover;
     background-position: 0% 60%;
     cursor: pointer;
@@ -206,7 +206,7 @@ body {
 #twospan {
     width: 70px;
     height: 45px;
-    background-image: url(/images/grass.jpg);
+    background-image: url(images/grass.jpg);
     background-size: cover;
     background-position: 0% 65%;
     cursor: pointer;
@@ -215,7 +215,7 @@ body {
 #threespan {
     width: 90px;
     height: 35px;
-    background-image: url(/images/shaljam.jpg);
+    background-image: url(images/shaljam.jpg);
     background-size: cover;
     background-position: 0% 50%;
     cursor: pointer;
